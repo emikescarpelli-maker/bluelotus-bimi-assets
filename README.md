@@ -1,1 +1,2 @@
-# Blue Lotus BIMI Assets
+.well-known/bimi/logo.svg
+
